@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Employee Management System**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **.Net MVC, Wordpress, Bootstrap**
 
